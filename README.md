@@ -1,10 +1,7 @@
 <h1 align="center">SRRL</h1>
 <h4 align="center">Spam open chrome with RickRoll link</h4>
-</p>
-	<img src="https://github.com/I2rys/SRRL/raw/main/preview.PNG?raw=true"></img>
 <p align="center">
 	<a href="https://github.com/I2rys/SRRL/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/SRRL?style=flat-square"></img></a>
-	<a href="https://github.com/I2rys/SRRL"><img src="https://bettercodehub.com/edge/badge/I2rys/SRRL?branch=main"></a>
 	<a href="https://github.com/I2rys/SRRL/issues"><img src="https://img.shields.io/github/issues/I2rys/SRRL.svg"></img></a>
 	<img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
 </p>
